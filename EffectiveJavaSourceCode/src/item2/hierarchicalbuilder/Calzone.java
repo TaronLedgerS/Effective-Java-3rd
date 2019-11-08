@@ -1,4 +1,4 @@
-package effectivejava.chapter2.item2.hierarchicalbuilder;
+package item2.hierarchicalbuilder;
 
 // Subclass with hierarchical builder (Page 15)
 public class Calzone extends Pizza {

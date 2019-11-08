@@ -1,4 +1,4 @@
-package effectivejava.chapter2.item2.builder;
+package item2.builder;
 
 // Builder Pattern  (Page 13)
 public class NutritionFacts {

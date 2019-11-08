@@ -1,4 +1,4 @@
-package effectivejava.chapter2.item6;
+package item6;
 
 import java.util.Comparator;
 
@@ -12,7 +12,7 @@ public class Sum {
     }
 
     public static void main(String[] args) {
-        int numSets = Integer.parseInt(args[0]);
+        int numSets = Integer.parseInt("50");
         long x = 0;
 
         for (int i = 0; i < numSets; i++) {

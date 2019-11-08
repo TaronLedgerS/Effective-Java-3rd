@@ -1,4 +1,4 @@
-package effectivejava.chapter2.item8;
+package item8;
 
 import java.util.concurrent.TimeUnit;
 

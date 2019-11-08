@@ -1,4 +1,4 @@
-package effectivejava.chapter2.item9.trywithresources;
+package item9.trywithresources;
 
 
 import java.io.BufferedReader;

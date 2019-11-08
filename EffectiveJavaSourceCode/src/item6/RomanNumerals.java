@@ -1,4 +1,4 @@
-package effectivejava.chapter2.item6;
+package item6;
 import java.util.regex.Pattern;
 
 // Reusing expensive object for improved performance (Pages 22 and 23)
@@ -19,8 +19,10 @@ public class RomanNumerals {
     }
 
     public static void main(String[] args) {
-        int numSets = Integer.parseInt(args[0]);
-        int numReps = Integer.parseInt(args[1]);
+        //int numSets = Integer.parseInt(args[0]);
+        //int numReps = Integer.parseInt(args[1]);
+        int numSets = Integer.parseInt("5");
+        int numReps = Integer.parseInt("6");
         boolean b = false;
 
         for (int i = 0; i < numSets; i++) {
