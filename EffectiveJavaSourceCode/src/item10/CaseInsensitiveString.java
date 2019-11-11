@@ -1,4 +1,4 @@
-package effectivejava.chapter3.item10;
+package item10;
 
 import java.util.ArrayList;
 import java.util.List;
