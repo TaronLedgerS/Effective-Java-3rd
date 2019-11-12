@@ -1,4 +1,4 @@
-package effectivejava.chapter3.item14;
+package item14;
 import java.util.*;
 
 // The benefits of implementing Comparable (Page 66)

@@ -1,4 +1,4 @@
-package effectivejava.chapter3.item14;
+package item14;
 import java.util.*;
 import java.util.concurrent.ThreadLocalRandom;
 import static java.util.Comparator.*;
@@ -22,7 +22,7 @@ public final class PhoneNumber implements Cloneable, Comparable<PhoneNumber> {
     @Override public boolean equals(Object o) {
         if (o == this)
             return true;
-        if (!(o instanceof effectivejava.chapter3.item11.PhoneNumber))
+        if (!(o instanceof PhoneNumber))
             return false;
         PhoneNumber pn = (PhoneNumber)o;
         return pn.lineNum == lineNum && pn.prefix == prefix

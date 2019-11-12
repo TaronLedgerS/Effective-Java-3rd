@@ -1,4 +1,4 @@
-package effectivejava.chapter4.item18;
+package item18;
 import java.util.*;
 
 // Wrapper class - uses composition in place of inheritance  (Page 90)
