@@ -1,4 +1,4 @@
-package effectivejava.chapter4.item20;
+package item20;
 import java.util.*;
 
 // Skeletal implementation class (Pages 102-3)

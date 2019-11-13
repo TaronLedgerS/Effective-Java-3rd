@@ -1,4 +1,4 @@
-package effectivejava.chapter4.item19;
+package item19;
 
 // Class whose constructor invokes an overridable method. NEVER DO THIS! (Page 95)
 public class Super {

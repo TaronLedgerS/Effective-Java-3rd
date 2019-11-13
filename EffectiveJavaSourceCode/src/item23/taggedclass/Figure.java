@@ -1,4 +1,4 @@
-package effectivejava.chapter4.item23.taggedclass;
+package item23.taggedclass;
 
 // Tagged class - vastly inferior to a class hierarchy! (Page 109)
 class Figure {

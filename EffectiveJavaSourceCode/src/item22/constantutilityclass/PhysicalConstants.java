@@ -1,4 +1,4 @@
-package effectivejava.chapter4.item22.constantutilityclass;
+package item22.constantutilityclass;
 
 // Constant utility class (Page 108)
 public class PhysicalConstants {
