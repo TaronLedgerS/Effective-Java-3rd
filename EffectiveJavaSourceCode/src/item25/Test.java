@@ -1,4 +1,4 @@
-package effectivejava.chapter4.item25;
+package item25;
 
 // Static member classes instead of multiple top-level classes (Page 116)
 public class Test {

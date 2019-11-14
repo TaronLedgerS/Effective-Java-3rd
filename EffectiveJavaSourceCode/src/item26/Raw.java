@@ -1,4 +1,4 @@
-package effectivejava.chapter5.item26;
+package item26;
 import java.util.*;
 
 // Fails at runtime - unsafeAdd method uses a raw type (List)!  (Page 119)

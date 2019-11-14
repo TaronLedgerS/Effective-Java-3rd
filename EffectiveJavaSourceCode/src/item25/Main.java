@@ -1,4 +1,4 @@
-package effectivejava.chapter4.item25;
+package item25;
 
 //  (Page 115)
 public class Main {
