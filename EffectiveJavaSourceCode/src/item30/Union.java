@@ -1,4 +1,4 @@
-package effectivejava.chapter5.item30;
+package item30;
 import java.util.*;
 
 // Generic union method and program to exercise it  (Pages 135-6)

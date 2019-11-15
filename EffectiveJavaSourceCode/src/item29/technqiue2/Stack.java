@@ -1,4 +1,4 @@
-package effectivejava.chapter5.item29.technqiue2;
+package item29.technqiue2;
 
 import java.util.Arrays;
 import effectivejava.chapter5.item29.EmptyStackException;
